@@ -44,19 +44,3 @@ python-student-result-system/
 │── student_result.py
 │── README.md
 ```
-
----
-
-## 🔮 Future Improvements
-
-* Save student data to file
-* GUI version
-* Subject-wise toppers
-* Ranking system
-* Export results to CSV
-
----
-
-## 👨‍💻 Author
-
-Made with Python for learning and practice.
