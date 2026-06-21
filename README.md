@@ -25,7 +25,6 @@ This application stores student marks, calculates total marks, percentage, and g
 * Object-Oriented Programming (OOP)
 * Dictionaries
 
----
 
 ## 🚀 How to Run
 
@@ -35,12 +34,4 @@ This application stores student marks, calculates total marks, percentage, and g
 4. Choose options from the menu
 5. Add or view student results
 
----
 
-## 📂 Project Structure
-
-```text
-python-student-result-system/
-│── student_result.py
-│── README.md
-```
